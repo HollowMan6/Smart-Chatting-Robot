@@ -45,6 +45,5 @@ while True:
 
     except Exception:
         print("    出错了，换个问题吧！o(*￣▽￣*)o")# Something went wrong, Let's change the question! o(*￣▽￣*)o
-        pass
 
 #程序结束 Ending
